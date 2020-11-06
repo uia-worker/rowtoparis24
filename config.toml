@@ -1,2 +1,4 @@
 baseURL = "http://rowtoparis24.no/"
 theme = "black-and-light"
+[params]
+  sitename = "Up and Rowing"
